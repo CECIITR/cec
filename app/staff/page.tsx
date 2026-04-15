@@ -50,7 +50,7 @@ const cardData: CardData[] = [
     image_url: "/staff/anand-singh.jpg",
     name: "Mr. Anand Singh",
     designation: "Updater Services Ltd. Staff",
-    phone: "01332-285545",
+    phone: "01332-284327",
   },
   {
     image_url: "https://d1bm918zlnq37v.cloudfront.net/CECTemp/shubham.jpeg",
