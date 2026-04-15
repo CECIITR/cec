@@ -64,8 +64,8 @@ function StaffContent() {
   const searchParams = useSearchParams();
   const tabParam = searchParams.get("tab");
   const tab = tabParam === "coordinator" ? "coordinator" : "staff";
-  const coordinator = cardData.find((item) => item.name === "Prof. Kaushik Ghosh");
-  const staff = cardData.filter((item) => item.name !== "Prof. Kaushik Ghosh");
+  const coordinator = cardData.find((item) => item.name === "Prof. Soumitra Satapathi");
+  const staff = cardData.filter((item) => item.name !== "Prof. Soumitra Satapathi");
   return (
     <>
       {/* Section Content */}
